@@ -10,8 +10,8 @@ import setuptools
 setuptools.setup(
 name= "components",
 version="0.0.1",
-author="Insight Delivered",
-author_email="vignesh.mohan@insightdelivered.com",
+author="Vignesh Mohan",
+author_email="vigneshmohan7275@gmail.com",
 packages=setuptools.find_packages(),
 classifiers=[
     "Programming Language :: Python :: 3",
