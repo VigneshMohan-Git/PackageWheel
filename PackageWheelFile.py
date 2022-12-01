@@ -1,7 +1,7 @@
 import shutil,os
-parent_dir="C:\\Users\\Poovendran\\PycharmProjects\\Package_whl\\"
-destination_path = "C:\\Users\\Poovendran\\PycharmProjects\\Wheel_Files"
-pythonfilepath = "C:\\Users\\Poovendran\\PycharmProjects\\Package_whl\\pythonfiles\\"
+parent_dir="C:\\Users\\PycharmProjects\\Package_whl\\"
+destination_path = "C:\\Users\\PycharmProjects\\Wheel_Files"
+pythonfilepath = "C:\\Users\\PycharmProjects\\Package_whl\\pythonfiles\\"
 
 lines = [
 """
